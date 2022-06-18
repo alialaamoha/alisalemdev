@@ -5,4 +5,4 @@
     <a href="https://devandshell.com/blogs"><img src="https://img.shields.io/badge/-Blog-2D2B55?style=flat-square&logo=RSS&logoColor=white"/></a>
 </p>
 
-I'm a solution architect, SRE, DevOps, and full stack developer with more than 10 years professional experience. Currently, I specialise in building enterprise applications using .NET,Java,Python, Angular, React and in love with shell, SRE and DevOps using AzureDeops, Jenkins, Ansible , Terraform . I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
+I'm a solution architect, SRE, DevOps, and full stack developer with more than 10 years professional experience. Currently, I specialise in building enterprise applications using .NET,Java,Python, Angular, React and in love with shell, SRE and DevOps using docker , kubernetes , AzureDeops, Jenkins, Ansible , Terraform  and much more. I love challenges and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution with automated process.
