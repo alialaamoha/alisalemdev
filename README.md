@@ -1,1 +1,8 @@
-<h3 align="center">Hi 👋, I'm Ali AlaaEldin Salem</h3>
+# Hey there! I'm [Ali AlaaEldin Salem](https://devandshell.com) 👋
+<p align="center">
+    <a href="https://twitter.com/ali_alaa_moha"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/alialaamoha/"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href="https://devandshell.com/blogs"><img src="https://img.shields.io/badge/-Blog-2D2B55?style=flat-square&logo=RSS&logoColor=white"/></a>
+</p>
+
+I'm a solution architect, SRE, DevOps, and full stack developer with more than 10 years professional experience. Currently, I specialise in building enterprise applications using .NET,Java,Python, Angular, React and in love with shell, SRE and DevOps using AzureDeops, Jenkins, Ansible , Terraform . I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
