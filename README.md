@@ -5,6 +5,6 @@
     <a href="https://devandshell.com/blogs"><img src="https://img.shields.io/badge/-Blog-2D2B55?style=flat-square&logo=RSS&logoColor=white"/></a>
 </p>
 
-Cloud Native Enginner SRE  with more than 10 years professional experience. 
-In love with the dev and shell. i delivered alot of scalabel enterprise applications. 
+Cloud Native Engineer SRE  with more than 10 years of professional experience. 
+In love with the dev and shell. Delivered a lot of scalable enterprise applications. 
 
